@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://strem4free.onrender.com/
+Host: https://strem4free.onrender.com
 
 # Sitemaps
 Sitemap: https://strem4free.onrender.com/sitemap.xml
